@@ -1,0 +1,12 @@
+What is a gitignore file and what should it include for a Java project?
+To tell Git which files do not need to be added to version management 
+
+What does fast-forward in Git mean?
+Merge quicckly and no features
+
+Why should you have different branches?
+If we just have one main branch, it is very tough to switch version when there are too many changes.
+Also, if there is a problem with master branch, we will not be able to continue development.
+
+In a project how many remote repositories do you usually have?
+You can have as many remote repos as you want, but there is only remote repo called origin.
